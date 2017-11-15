@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1afd23df-0ce9-4715-adf6-5366d5d5af81" name="Default" comment="коммит из шторма" />
+    <list default="true" id="1afd23df-0ce9-4715-adf6-5366d5d5af81" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cars.php" afterPath="$PROJECT_DIR$/cars.php" />
+    </list>
     <ignored path="my_project.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -31,9 +34,11 @@
       <file leaf-file-name="cars.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/cars.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="219">
+              <caret line="10" column="19" lean-forward="false" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
+              <folding>
+                <element signature="e#6#96#0#PHP" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -80,7 +85,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/../../site.com/wp-content/themes/forum/html.php" />
         <option value="$PROJECT_DIR$/../../site.com/wp-content/themes/forum/style.css" />
         <option value="$PROJECT_DIR$/../../site.com/wp-content/themes/forum/header.php" />
         <option value="$PROJECT_DIR$/../../site.com/wp-content/themes/forum/page.php" />
@@ -131,6 +135,7 @@
         <option value="$PROJECT_DIR$/4_my_project.php" />
         <option value="$PROJECT_DIR$/../../site.com/wp-content/themes/SweetGuitars/functions.php" />
         <option value="$PROJECT_DIR$/../../site.com/wp-content/plugins/editing_of_user_info/editing_of_user_info.php" />
+        <option value="$PROJECT_DIR$/cars.php" />
       </list>
     </option>
   </component>
@@ -340,12 +345,20 @@
       <workItem from="1510482952073" duration="11240000" />
       <workItem from="1510564105748" duration="3944000" />
       <workItem from="1510734500410" duration="4077000" />
-      <workItem from="1510744224885" duration="23000" />
+      <workItem from="1510744224885" duration="846000" />
     </task>
+    <task id="LOCAL-00001" summary="первые изменения">
+      <created>1510744906571</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1510744906571</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="444423000" />
+    <option name="totallyTimeSpent" value="445246000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -362,6 +375,7 @@
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.15224111" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.328594" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980973" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32769555" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3292683" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -393,6 +407,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="первые изменения" />
+    <option name="LAST_COMMIT_MESSAGE" value="первые изменения" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -493,9 +511,11 @@
     <entry file="file://$PROJECT_DIR$/../../site.com/wp-content/plugins/editing_of_user_info/editing_of_user_info.php" />
     <entry file="file://$PROJECT_DIR$/cars.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="219">
+          <caret line="10" column="19" lean-forward="false" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
+          <folding>
+            <element signature="e#6#96#0#PHP" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

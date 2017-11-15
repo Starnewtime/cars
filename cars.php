@@ -8,6 +8,7 @@ Author: Владимир Зверев
 ?>
 <?php
 // первые изменения
+// вторые изменения
 add_action('show_user_profile', 'my_show_extra_profile_fields');
 add_action('edit_user_profile', 'my_show_extra_profile_fields');
 
