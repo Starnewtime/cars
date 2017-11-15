@@ -1,12 +1,13 @@
 <?php
 /*
-Plugin Name: editing_of_user_info
-Description: Плагин редактирует информацию пользователя
+Plugin Name: cars
+Description: тестовое задание
 Version: 1.0
 Author: Владимир Зверев
 */
 ?>
 <?php
+// первые изменения
 add_action('show_user_profile', 'my_show_extra_profile_fields');
 add_action('edit_user_profile', 'my_show_extra_profile_fields');
 
